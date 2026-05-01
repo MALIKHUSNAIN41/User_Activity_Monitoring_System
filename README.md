@@ -1,5 +1,5 @@
 ** User Activity Monitoring System (UAM)**
-A real-time monitoring solution designed to track system activities, active applications, and resource usage. This project is built using a Client-Server architecture to provide centralized logging and analytics.
+*A real-time monitoring solution designed to track system activities, active applications, and resource usage. This project is built using a Client-Server architecture to provide centralized logging and analytics.
 ## 🚀 Key Features
  * *Real-time Activity Tracking:* Monitors the current active window/application.
  * *System Resource Monitoring:* Tracks CPU and RAM usage in real-time.
